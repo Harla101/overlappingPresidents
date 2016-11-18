@@ -13,4 +13,9 @@ To start:
 npm install
 npm start
 ```
+
+To test:
+```
+npm test
+```
 result will be console logged
